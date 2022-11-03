@@ -4,9 +4,10 @@ h1 {
 font-family: 'PT Sans Narrow'
 }
 
-h4 {
-  color:##00BFFF;
+h3 {
+  text-align: center;
 }
+
 h5 {
   text-align:center;
   font-family: 'merriweather;'}
@@ -14,4 +15,5 @@ h5 {
 p {
   font-family: 'merriweather'}
 
-  <!-- The fonts and colors were not cooperating -->
+h4 {
+ color:#ff6666;}
